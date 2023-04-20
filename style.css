@@ -1,0 +1,18 @@
+#perfil{
+
+    margin-left: 10px;
+
+
+}
+
+section{
+    border-style:double;
+}
+
+#perfil,#Experiencia,#Educacion,#Skills,#Proyectos{
+    margin-left: 30px;
+}
+
+footer{
+    text-align: center;
+}

@@ -1,8 +1,18 @@
-#perfil{
 
+header{
+    border-style:double;
+
+}
+
+#perfil{
+  
     margin-left: 40px;
 
+}
 
+#perfilpic{
+  
+    
 }
 
 section{
@@ -15,4 +25,47 @@ section{
 
 footer{
     text-align: center;
+}
+
+#btt-editar-descripcion{
+
+margin-left: 70px;
+    
+}
+
+#ap{
+    position:absolute;
+    
+    z-index: 1;
+}
+
+#banner{
+    z-index: -1;
+}
+
+#face{
+    position: absolute;
+    float: right; width: 50px;
+    border-radius: 25%;
+    right: 9%;    
+    
+    z-index: 1;
+}
+
+#inst{
+    position: absolute;
+    float: right; width: 50px;
+    border-radius: 25%;
+    right: 5%;    
+    
+    z-index: 1;
+}
+
+#linked{
+    position: absolute;
+    float: right; width: 50px;
+    border-radius: 25%;
+    right: 1%;    
+    
+    z-index: 1;
 }
